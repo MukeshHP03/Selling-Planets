@@ -1,2 +1,2 @@
 # planet-selling
-E-Commerce website for Selling the Planet.
+E-Commerce website for Selling Planets.
